@@ -13,3 +13,15 @@ Section: Tweaks
 Description: Use email keyboard type everywhere (@ symbol)
 Author: shepgoba
 Name: AtKeyboard
+
+Package: net.myclassic.a-bypass
+Section: Tweaks
+Installed-Size: 456
+Maintainer: Baw Appie <pp121324@gmail.com>
+Filename: A-Bypass.deb
+Architecture: iphoneos-arm
+Version: 1.2.4
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+SileoDepiction: https://myclassic.net/sileo.php?pid=1513
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
